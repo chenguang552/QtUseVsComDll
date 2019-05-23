@@ -9,6 +9,10 @@
 #include <QTreeView>
 #include <QMessageBox>
 #include <QProcess>
+/**
+ *  注意在pro文件中添加CONFIG项依赖
+ */
+
 namespace Ui {
 class MainWindow;
 }
